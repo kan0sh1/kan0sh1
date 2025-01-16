@@ -1,1 +1,1 @@
-Something nice;
+Something nice.
